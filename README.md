@@ -24,9 +24,7 @@ Este projeto é um **sistema de reconhecimento facial** que visa gerenciar infor
 ## ✨ Funcionalidades
 
 - **Cadastro de Pessoas:** Permite a adição de novas pessoas no sistema com nome, telefone e imagem do rosto.
-- **Edição de Dados:** Atualize o nome e telefone das pessoas cadastradas.
-- **Troca de Rosto:** Capture e atualize a imagem do rosto usando a webcam.
-- **Exclusão de Pessoa:** Apaga os dados e as imagens de uma pessoa.
+- **Verificação de Pessoas:** Verfica a biometria facial para permitir ou negar o acesso.
 - **Interface Intuitiva:** Interface gráfica simples e fácil de usar com Tkinter.
 
 ---
