@@ -33,9 +33,9 @@ Este projeto é um **sistema de reconhecimento facial** que visa gerenciar infor
 
 ## 📷 Preview
 
-![Preview](Tela1.png)
-![Preview](Tela2.png)
-![Preview](Tela3.png)
+<img src="Tela1.png" alt="Tela 1" width="500"/>
+<img src="Tela2.png" alt="Tela 2" width="500"/>
+<img src="Tela3.png" alt="Tela 3" width="500"/>
 
 ---
 
