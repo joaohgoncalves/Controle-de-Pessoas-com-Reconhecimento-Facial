@@ -1,4 +1,4 @@
-# Sistema de Reconhecimento Facial - Gerenciamento de Pessoas 📸
+# Sistema de Reconhecimento Facial - Gerenciamento de Pessoas 
 
 ![Badge Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Badge OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -33,7 +33,9 @@ Este projeto é um **sistema de reconhecimento facial** que visa gerenciar infor
 
 ## 📷 Preview
 
-![Preview](https://via.placeholder.com/800x400.png?text=Preview+do+Sistema)
+![Preview](Tela1.png)
+![Preview](Tela2.png)
+![Preview](Tela3.png)
 
 ---
 
