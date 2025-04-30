@@ -53,7 +53,7 @@ Execute o script principal para abrir a interface gráfica:
    ```bash
 python gerenciar_pessoas.py
 ```
-Interações disponíveis:
+## Interações disponíveis:
 
 Adicionar Pessoa: Clique em "Adicionar Pessoa" para inserir novos dados.
 
@@ -61,12 +61,12 @@ verificar Pessoa: Clique em "Verificar Acesso" para verificar o acesso.
 
 Finalizar: Clique em "Sair" para fechar o programa.
 
-📝 Observações
+## 📝 Observações
 Este sistema não possui banco de dados, as informações são armazenadas em arquivos locais.
 
 Recomendado para pequenos projetos de reconhecimento facial ou como protótipo para sistemas maiores.
 
-🧠 Créditos
+## 🧠 Créditos
 Desenvolvido por João Henrique Da Silva Gonçalves
 Criação focada em uma interface simples e eficiente para gerenciar rostos e dados de pessoas com reconhecimento facial.
 
